@@ -1,15 +1,9 @@
-# Hi there!
+Engineering Lead with a strong foundation in full stack development and a passion for building high-performance, scalable web applications. I thrive on tackling complex technical challenges and empowering engineering teams to deliver exceptional results.
 
-I'm an Engineering Lead working at Transmax, in Brisbane, Australia.
+As an Engineering Lead, I focus on providing technical guidance, mentoring engineers, and ensuring teams operate effectively using Agile and Scrum practices. I've successfully led the delivery of multiple applications into production that are used daily by multiple state governments.
 
-I'm passionate about pushing the boundaries of enterprise web applications and designing technical solutions that meet government standards around security, reliability and scalability.
+My technical specialty is front end development, where I design and build enterprise micro front end applications using technologies including React and Module Federation. I collaborate with Product Designers and Product Managers to assess the technical feasibility and scalability of the product vision.
 
-In my free time I enjoy tinkering with new technologies to stay up to date with the latest industry trends and best practises, constantly learning and growing my skills to find the best way to solve problems.
+My full stack experience also extends to technologies like ASP.NET, Redis, Postgres and Microsoft Orleans for building highly available applications and Kubernetes, Envoy and AWS for deploying and scaling containerised applications.
 
 For a list of my projects, see my website at [royportas.com](https://www.royportas.com)
-
-## Interests
-
-- 🌱 Building web apps using technologies like React, Material UI and Next.js
-- ⚙️ Running my own self-hosted services at home on a server I custom built, managing the underlying Linux operating system and orchestrating the applications using Nomad and Docker
-- ⚡️ Building enterprise microfrontend applications using Module Federation
